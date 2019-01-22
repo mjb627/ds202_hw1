@@ -1,0 +1,11 @@
+---
+title: "Michael Bardfield; mjb627"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## hw1
+Data science can be used to create projects that **analyze** data. In this link here: <https://pudding.cool/projects/vocabulary/?fbclid=IwAR3zC92GarhqDp17Ma9NzGOMl3Ml-dp5MQpaHg5VgGaRPyiU9gN1j0M4ljs> a person uses lyrics of rap songs from many different artists as data and finds who has the largest vocabulary. This is an example of data science since this person analyzes data to come to a conclusion.
