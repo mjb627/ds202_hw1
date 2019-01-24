@@ -1,0 +1,5 @@
+Michael Bardfield mjb627
+He added the RMd file in the most recent commit.  	Add hw1 RMarkdown file 
+6867e48
+I can open it with no errors.
+Just look up how to use it online.
